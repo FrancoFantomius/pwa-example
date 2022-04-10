@@ -1,0 +1,21 @@
+{
+    "name": "Celestial",
+    "short_name": "cel",
+    "start_url": "https://francofantomius.github.io/pwa",
+    "background_color": "#f5f5f5",
+    "theme_color": "#ff0000",
+    "display": "standalone",
+    "icons":[
+        {
+            "src": "img/logo-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "img/logo-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

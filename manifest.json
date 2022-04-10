@@ -1,7 +1,7 @@
 {
     "name": "Celestial",
     "short_name": "cel",
-    "start_url": "https://francofantomius.github.io/pwa",
+    "start_url": "https://francofantomius.github.io/pwa-example/",
     "background_color": "#f5f5f5",
     "theme_color": "#ff0000",
     "display": "standalone",
